@@ -3,7 +3,7 @@ This repository contained python code to do supervise learning and unsupervise l
 
 I have made modifications according to my requirements, mainly to understand the research of common machine learning algorithms in the field of materials.
 
-# Module
+# Library
   Sklearn: http://scikit-learn.org/  
   Numpy: http://www.numpy.org/  
   Scipy: https://www.scipy.org/  
@@ -13,11 +13,11 @@ I have made modifications according to my requirements, mainly to understand the
   
 # Supervised Learning
 
-  Linear model: LinearRegression,LogisticRegression,Lasso,Ridge
-  Neural Network: Multi-layer Perceptron classifier
-  SVM
-  Dscriminant Analysis
+  Linear model: LinearRegression,LogisticRegression,Lasso,Ridge  
+  Neural Network: Multi-layer Perceptron classifier  
+  SVM  
+  Dscriminant Analysis  
   
-  Model performace metrics: r2_score,mean_squared_error,roc_auc_score,confusion_matrix,roc_curve
+  Model performace metrics: r2_score,mean_squared_error,roc_auc_score,confusion_matrix,roc_curve  
   
 
