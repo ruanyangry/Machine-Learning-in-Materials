@@ -4,12 +4,12 @@ This repository contained python code to do supervise learning and unsupervise l
 I have made modifications according to my requirements, mainly to understand the research of common machine learning algorithms in the field of materials.
 
 # Module
-  Sklearn: http://scikit-learn.org/
-  Numpy: http://www.numpy.org/
-  Scipy: https://www.scipy.org/
-  Matplotlib:https://www.matplotlib.org/
-  Pandas: http://pandas.pydata.org/pandas-docs/stable/index.html
-  Seaborn: http://seaborn.pydata.org/
+  Sklearn: http://scikit-learn.org/  
+  Numpy: http://www.numpy.org/  
+  Scipy: https://www.scipy.org/  
+  Matplotlib:https://www.matplotlib.org/  
+  Pandas: http://pandas.pydata.org/pandas-docs/stable/index.html  
+  Seaborn: http://seaborn.pydata.org/  
   
 # Supervised Learning
 
