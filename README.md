@@ -13,11 +13,11 @@ I have made modifications according to my requirements, mainly to understand the
   
 # Supervised Learning
 
-  Linear model: LinearRegression,LogisticRegression,Lasso,Ridge  
-  Neural Network: Multi-layer Perceptron classifier  
-  SVM  
-  Dscriminant Analysis  
+    Linear model: LinearRegression、LogisticRegression、Lasso、Ridge  
+    Neural Network: Multi-layer Perceptron classifier  
+    SVM  
+    Dscriminant Analysis  
   
-  Model performace metrics: r2_score,mean_squared_error,roc_auc_score,confusion_matrix,roc_curve  
+    Model performace metrics: r2_score、mean_squared_error、roc_auc_score、confusion_matrix、roc_curve  
   
 
